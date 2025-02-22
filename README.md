@@ -33,9 +33,9 @@ By default, your "Left Hand" keybind swings your Right Hand, and your "Right Han
 (note): The git submodule should automatically init and update recursively on CMake update. If it fails, you'll have to do it manually.
 
 ## Attributions
-[alandtse - CommonLib NG Fork](https://github.com/alandtse/CommonLibVR/tree/ng)
-[meh321 - Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
-[jarari - One Click Power Attack](https://github.com/jarari/OneClickPowerAttack)
-[mrowrpurr - Learning & Resources](https://mrowrpurr.com/)
+- [alandtse - CommonLib NG Fork](https://github.com/alandtse/CommonLibVR/tree/ng)
+- [meh321 - Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+- [jarari - One Click Power Attack](https://github.com/jarari/OneClickPowerAttack)
+- [mrowrpurr - Learning & Resources](https://mrowrpurr.com/)
 
 
